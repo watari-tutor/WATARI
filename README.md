@@ -10,7 +10,7 @@ This repository is the **official public download page for the WATARI Android ap
 
 ## 📲 Download WATARI
 
-### [⬇️ Download the latest WATARI APK](https://github.com/YOUR-USERNAME/WATARI/releases/latest)
+### [⬇️ Download the latest WATARI APK](https://github.com/watari-tutor/WATARI/releases/tag/v1.0.37)
 
 1. Open the latest release.
 2. Download the `.apk` file from **Assets**.
@@ -20,8 +20,8 @@ This repository is the **official public download page for the WATARI Android ap
 
 > **Note:** Android may display a security warning when installing an app downloaded outside the Play Store. Only install APKs published through this official repository and check the release information before installing.
 
-**Current version:** `Add version number here`  
-**Release date:** `Add release date here`
+**Current version:** v1.0.37  
+**Release date:** 30 Oct 2026
 
 ---
 
