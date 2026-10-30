@@ -1,0 +1,36 @@
+# Python source and bytecode (do not publish the app source)
+*.py
+*.pyw
+__pycache__/
+*.py[cod]
+
+# Local app data and databases
+*.json
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.keystore
+*.jks
+
+# Virtual environments and build output
+.venv/
+venv/
+env/
+build/
+dist/
+.dart_tool/
+.flutter-plugins/
+.flutter-plugins-dependencies/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
