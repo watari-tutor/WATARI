@@ -172,7 +172,7 @@ Every bit of feedback helps make WATARI better.
 
 Stay updated with the latest features, development updates, and announcements!
 
-- 📸 **Instagram:** [@YourInstagram](https://www.instagram.com/watari.tutor)
+- 📸 **Instagram:** [@watari.tutor](https://www.instagram.com/watari.tutor)
 - ▶️ **YouTube:** [WATARI on YouTube](https://www.youtube.com/@Watari-Tutor)
 
 💬 Have feedback, found a bug, or want to suggest a feature? Reach out through Instagram DM or leave a comment on Instagram or YouTube. We'd love to hear from you! 💜
