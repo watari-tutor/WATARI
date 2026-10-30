@@ -164,4 +164,16 @@ If WATARI helps you organise your studies, the best way to support the project i
 - 💬 Suggest features and report bugs.
 - 📸 Follow the development updates on Instagram and YouTube.
 
-Every bit of feedback helps make WATARI better
+Every bit of feedback helps make WATARI better.
+
+---
+
+<p align="center">
+
+### 🤖 WATARI
+
+**Your Study Tutor & AI Co-Pilot**
+
+*Built with curiosity. Improved with feedback. Made for learning.* 💜
+
+</p>
